@@ -21,7 +21,7 @@
 다운로드 링크: <https://software.naver.com/software/summary.nhn?softwareId=GWS_001665>
 
 위의 링크에서 `곰믹스`를 다운받아서 설치해주세요. 설치 시간 살짝 걸림(5분 가량?)
-![Install_1.png]
+![Install_1.png](Install_1.png)
 중간에 ACC코덱을 다운받아 어쩌구.. IPP 런타임을 다운받아 어쩌구 하면서 계속 물어보는데 다 `YES`!
 
 ## 학습
