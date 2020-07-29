@@ -2,6 +2,8 @@
 
 일단 완성본을 봅시다.
 
+<https://www.youtube.com/watch?v=30McOU6AB9A>
+
 ## 여러분이 하실 일
 
 * 인트로 이후 영상의 컷편집
