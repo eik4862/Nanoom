@@ -29,7 +29,7 @@
 
 #### 곰믹스 설치
 
-다운로드 링크: <https://software.naver.com/software/summary.nhn?softwareId=GWS_001665>
+**다운로드 링크**: <https://software.naver.com/software/summary.nhn?softwareId=GWS_001665>
 
 위의 링크에서 곰믹스를 다운받을 수 있습니다. 설치 시간 살짝 걸림(5분 가량?)
 
@@ -43,16 +43,17 @@ ACC 코덱을 다운받아 어쩌구.. IPP 런타임을 다운받아 어쩌구 �
 
 #### 반디컷 설치
 
-다운로드 링크: <https://www.bandicam.co.kr/bandicut-video-cutter/download/>
+**다운로드 링크**: <https://www.bandicam.co.kr/bandicut-video-cutter/download/>
 
-위의 링크에서 반디컷을 다운받을 수 있습니다. 최신베타(왼쪽)이 아니라 최신버전(오른쪽)으로 받아주세요. 
+위의 링크에서 반디컷을 다운받을 수 있습니다. 최신베타나 최신버전이나 큰 차이 없을듯...
 
 ## 사용법 YouTube
 
 두 프로그램 모두 사용법은 간단하고 직관적입니다. 사실 반디컷은 사용법이라할 것도 없어요... 그래도 일단 유튜브 강좌를 찾아 올려드립니다. 필요하다면 참고하시면 되겠습니다.
 
-곰믹스: <https://www.youtube.com/watch?v=c2qffHB7tF4>
-반디컷: <https://www.youtube.com/watch?v=C4yjJxk1hmg>
+**곰믹스**: <https://www.youtube.com/watch?v=c2qffHB7tF4>
+
+**반디컷**: <https://www.youtube.com/watch?v=C4yjJxk1hmg>
 
 ## 편집 가이드
 
