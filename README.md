@@ -63,4 +63,4 @@ ACC 코덱을 다운받아 어쩌구.. IPP 런타임을 다운받아 어쩌구 �
 
 내보내기 설정에서 인코딩은 H.264로 사전설정은 YouTube 1080p Full HD로 해서 나머지 아무것도 건드리지 말고 인코딩해주세요.
 
-![](Figures/PrPro_Preset.png)
+![](Figures/PrPro_Out.png)
